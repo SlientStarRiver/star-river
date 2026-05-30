@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: star-river API
+  description: 纯前端项目，无后端 API。此文件仅作为项目规范占位。
+  version: 0.1.0
+paths: {}
+components: {}
