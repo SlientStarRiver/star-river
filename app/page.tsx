@@ -109,7 +109,7 @@ export default function Portfolio() {
               <div className="absolute -inset-4 rounded-xl bg-gradient-to-r from-purple-500/20 to-pink-500/20 blur-xl opacity-70"></div>
               <div className="relative aspect-square rounded-xl overflow-hidden border border-zinc-800">
                 <img
-                  src="/placeholder.svg?height=600&width=600"
+                  src="/star-river/about-me.jpg"
                   alt="唐永屹"
                   className="w-full h-full object-cover"
                 />
@@ -202,7 +202,7 @@ export default function Portfolio() {
               title="GitHub AI 热点日报自动化"
               description="每天自动抓取 GitHub Trending，用 LLM 生成中文解读推送到微信。全流程跑在 GitHub Actions 上，零服务器成本。"
               tags={["Python", "GitHub Actions", "LLM", "PushPlus"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/star-river/placeholder.svg?height=400&width=600"
               demoUrl=""
               repoUrl="https://github.com/SlientStarRiver"
             />
@@ -210,7 +210,7 @@ export default function Portfolio() {
               title="微信点单小程序 (love-request)"
               description="面向双端角色的轻量级点单工具，支持心愿发布、订单状态跟踪。独立完成后端 API 和前端 H5 页面。"
               tags={["Node.js", "MySQL", "微信小程序", "H5"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/star-river/placeholder.svg?height=400&width=600"
               demoUrl=""
               repoUrl=""
             />
@@ -218,7 +218,7 @@ export default function Portfolio() {
               title="AI Agent Skill 工具链建设"
               description="封装了 5+ 个 AI Agent Skill，覆盖业务审查、极简输出、高保真原型设计等场景。在 Claude Code 和 WorkBuddy 双平台可用。"
               tags={["Claude Code", "Agent", "Prompt Engineering", "工具链"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/star-river/placeholder.svg?height=400&width=600"
               demoUrl=""
               repoUrl="https://github.com/SlientStarRiver"
             />
